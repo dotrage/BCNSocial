@@ -5,14 +5,14 @@ This PHP-based application was designed to scrape schedule details for the BarCa
 
 ## Dependencies ##
 
-PHP 5.2+
-MySQL 5.1+
-Twitter OAuth
-Twilio
+* PHP 5.2+
+* MySQL 5.1+
+* Twitter OAuth
+* Twilio
 
 ### Optional ###
 
-Memcached
+* Memcached
 
 ## Credits ##
 
